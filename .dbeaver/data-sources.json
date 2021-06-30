@@ -96,7 +96,7 @@
 		"postgres-jdbc-17a5df32992-64cf81adf0006643": {
 			"provider": "postgresql",
 			"driver": "postgres-jdbc",
-			"name": "postgres 2",
+			"name": "cfy_ecommerce",
 			"save-password": true,
 			"read-only": false,
 			"configuration": {
